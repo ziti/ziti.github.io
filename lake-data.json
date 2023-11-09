@@ -1,0 +1,311 @@
+[
+{
+    "date": "2023-10-10",
+    "water_level": "318.25",
+    "surface_area": "29178.50",
+    "reservoir_storage": "529086",
+    "conservation_storage": "528987",
+    "percent_full": "82.1",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-11",
+    "water_level": "318.21",
+    "surface_area": "29142.90",
+    "reservoir_storage": "527919",
+    "conservation_storage": "527820",
+    "percent_full": "81.9",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-12",
+    "water_level": "318.17",
+    "surface_area": "29107.90",
+    "reservoir_storage": "526754",
+    "conservation_storage": "526655",
+    "percent_full": "81.7",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-13",
+    "water_level": "318.15",
+    "surface_area": "29090.50",
+    "reservoir_storage": "526172",
+    "conservation_storage": "526073",
+    "percent_full": "81.6",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-14",
+    "water_level": "318.15",
+    "surface_area": "29090.50",
+    "reservoir_storage": "526172",
+    "conservation_storage": "526073",
+    "percent_full": "81.6",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-15",
+    "water_level": "318.10",
+    "surface_area": "29047.00",
+    "reservoir_storage": "524718",
+    "conservation_storage": "524619",
+    "percent_full": "81.4",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-16",
+    "water_level": "318.04",
+    "surface_area": "28994.20",
+    "reservoir_storage": "522977",
+    "conservation_storage": "522878",
+    "percent_full": "81.1",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-17",
+    "water_level": "317.99",
+    "surface_area": "28950.20",
+    "reservoir_storage": "521528",
+    "conservation_storage": "521429",
+    "percent_full": "80.9",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-18",
+    "water_level": "317.93",
+    "surface_area": "28897.40",
+    "reservoir_storage": "519793",
+    "conservation_storage": "519694",
+    "percent_full": "80.6",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-19",
+    "water_level": "317.91",
+    "surface_area": "28879.80",
+    "reservoir_storage": "519215",
+    "conservation_storage": "519116",
+    "percent_full": "80.5",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-20",
+    "water_level": "317.90",
+    "surface_area": "28871.00",
+    "reservoir_storage": "518926",
+    "conservation_storage": "518827",
+    "percent_full": "80.5",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-21",
+    "water_level": "317.87",
+    "surface_area": "28844.30",
+    "reservoir_storage": "518061",
+    "conservation_storage": "517962",
+    "percent_full": "80.3",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-22",
+    "water_level": "317.85",
+    "surface_area": "28826.50",
+    "reservoir_storage": "517485",
+    "conservation_storage": "517386",
+    "percent_full": "80.3",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-23",
+    "water_level": "317.81",
+    "surface_area": "28790.90",
+    "reservoir_storage": "516331",
+    "conservation_storage": "516232",
+    "percent_full": "80.1",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-24",
+    "water_level": "317.78",
+    "surface_area": "28764.00",
+    "reservoir_storage": "515468",
+    "conservation_storage": "515369",
+    "percent_full": "79.9",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-25",
+    "water_level": "317.77",
+    "surface_area": "28755.00",
+    "reservoir_storage": "515181",
+    "conservation_storage": "515082",
+    "percent_full": "79.9",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-26",
+    "water_level": "317.92",
+    "surface_area": "28888.60",
+    "reservoir_storage": "519504",
+    "conservation_storage": "519405",
+    "percent_full": "80.6",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-27",
+    "water_level": "318.19",
+    "surface_area": "29125.30",
+    "reservoir_storage": "527336",
+    "conservation_storage": "527237",
+    "percent_full": "81.8",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-28",
+    "water_level": "318.42",
+    "surface_area": "29331.20",
+    "reservoir_storage": "534058",
+    "conservation_storage": "533959",
+    "percent_full": "82.8",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-29",
+    "water_level": "319.10",
+    "surface_area": "29946.00",
+    "reservoir_storage": "554212",
+    "conservation_storage": "554113",
+    "percent_full": "86.0",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-30",
+    "water_level": "320.06",
+    "surface_area": "30745.20",
+    "reservoir_storage": "583338",
+    "conservation_storage": "583239",
+    "percent_full": "90.5",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-10-31",
+    "water_level": "320.49",
+    "surface_area": "31126.90",
+    "reservoir_storage": "596639",
+    "conservation_storage": "596540",
+    "percent_full": "92.5",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-11-01",
+    "water_level": "320.71",
+    "surface_area": "31332.50",
+    "reservoir_storage": "603510",
+    "conservation_storage": "603411",
+    "percent_full": "93.6",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-11-02",
+    "water_level": "320.77",
+    "surface_area": "31389.50",
+    "reservoir_storage": "605392",
+    "conservation_storage": "605293",
+    "percent_full": "93.9",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-11-03",
+    "water_level": "320.79",
+    "surface_area": "31408.50",
+    "reservoir_storage": "606019",
+    "conservation_storage": "605920",
+    "percent_full": "94.0",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-11-04",
+    "water_level": "320.80",
+    "surface_area": "31418.00",
+    "reservoir_storage": "606333",
+    "conservation_storage": "606234",
+    "percent_full": "94.0",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-11-05",
+    "water_level": "320.81",
+    "surface_area": "31427.60",
+    "reservoir_storage": "606648",
+    "conservation_storage": "606549",
+    "percent_full": "94.1",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-11-06",
+    "water_level": "320.81",
+    "surface_area": "31427.60",
+    "reservoir_storage": "606648",
+    "conservation_storage": "606549",
+    "percent_full": "94.1",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-11-07",
+    "water_level": "320.81",
+    "surface_area": "31427.60",
+    "reservoir_storage": "606648",
+    "conservation_storage": "606549",
+    "percent_full": "94.1",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-11-08",
+    "water_level": "320.80",
+    "surface_area": "31418.00",
+    "reservoir_storage": "606333",
+    "conservation_storage": "606234",
+    "percent_full": "94.0",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+},
+{
+    "date": "2023-11-09",
+    "water_level": "320.81",
+    "surface_area": "31427.60",
+    "reservoir_storage": "606648",
+    "conservation_storage": "606549",
+    "percent_full": "94.1",
+    "conservation_capacity": "644686",
+    "dead_pool_capacity": "99"
+}]
